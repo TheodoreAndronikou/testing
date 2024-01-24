@@ -433,6 +433,10 @@ nav {
   cursor: pointer; /* Set the cursor to a pointer to indicate a clickable element */
 }
 
+.contact-form-container {
+  padding: 20px;
+}
+
 
 /* Styles for smaller screens */
 /* For mobile screens (width <= 768px) */
