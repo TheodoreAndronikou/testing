@@ -5,6 +5,13 @@ body {
   overflow-x: hidden;
 }
 
+footer {
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+}
+
+
 a {
   text-decoration: none;
 }
