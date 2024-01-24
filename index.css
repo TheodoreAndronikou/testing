@@ -383,6 +383,12 @@ nav {
 /* Styles for smaller screens */
 /* For mobile screens (width <= 768px) */
 @media (max-width: 768px) {
+
+  .contact-form, footer {
+    width: 90%;
+    margin: 0 auto;
+  }
+  
   nav {
     display: none;
   }
